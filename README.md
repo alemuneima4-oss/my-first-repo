@@ -1,2 +1,2 @@
 # my-first-repo
-any thing
+thrives
